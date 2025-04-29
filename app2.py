@@ -8,7 +8,7 @@ import re
 
 # 1. Groq LLM Setup
 llm = ChatGroq(
-    api_key="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",  # Replace with your Groq API Key
+    api_key="GROQ_API_KEY",  # Replace with your Groq API Key
     model="llama3-8b-8192"         # Updated active model
 )
 
